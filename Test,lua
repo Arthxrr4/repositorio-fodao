@@ -2,6 +2,14 @@
   <head>
     <title>primeiro site do 1A</title>
   </head>
+  <style>
+    body{
+      background-color:#B0E0E6;
+      color:#800000;
+      font-size:50px;
+      font-family:arial;
+    }
+  </style>
   <body>
     <p>ESTA FUNCIONANDO</p> </br>
     <fieldset>
